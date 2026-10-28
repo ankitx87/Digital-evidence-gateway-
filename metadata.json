@@ -1,0 +1,6 @@
+{
+  "name": "Digital Evidence Gateway",
+  "description": "Lawful social media investigation and digital evidence management platform for authorized law-enforcement agencies and cybercrime units.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
